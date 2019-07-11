@@ -1,0 +1,14 @@
+{
+    "name": "lcerq/nuova_prova_composer",
+    "authors": [
+        {
+            "name": "lorenzocrq",
+            "email": "l.cerqua@wematica.it"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "myGear\\": ""
+        }
+}
